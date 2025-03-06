@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="441d626e-819b-4ddd-b3d0-415262dcc061" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2pQEN33J2RFjvsZgR7RND108eNf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="441d626e-819b-4ddd-b3d0-415262dcc061" name="Default Changelist" comment="" />
+      <created>1732689855219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732689855219</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="220" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1732689915185">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="220" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.816@0.0.1536.816" timestamp="1732689915185" />
+    <state x="461" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1741250768351">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="461" y="281" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1741250768351" />
+    <state x="428" y="138" key="search.everywhere.popup" timestamp="1732689889761">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="428" y="138" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1732689889761" />
+  </component>
+</project>
